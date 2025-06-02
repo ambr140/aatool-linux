@@ -1,6 +1,6 @@
 # Minecraft advancements tracker
 
-https://xorik.github.io/advancements/
+https://ambr140.github.io/aatool-linux/
 
 ### Features:
 - Show the total progress of all advancements
